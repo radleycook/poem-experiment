@@ -3,3 +3,7 @@ Violets are blue,
 I am learning git,
 So should you,
 
+It's new to me,
+But it makes sense,
+
+
